@@ -37,5 +37,5 @@ I would like to you to encourage to contribute in any form to the project throug
 
 *GPL* Licence
 
-![the end](image-2.png)
+![the end](img/image-2.png)
  
