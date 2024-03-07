@@ -1,5 +1,5 @@
 ﻿ # **Postgres API**
-![database with api](apipostgres.png)
+![database with api](img/apipostgres.png)
 
 ### **Description**
 
