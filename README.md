@@ -5,6 +5,10 @@
 
 In this project, an *API* was built in order to construct a database with registers about the likes about movies of the user. The latter can insert his/her favorite author, a brief description and the release date. Besides, he / she can update the database in any part of it and finally, he/she would be able to access it to make comparison with another register.
 
+### **Table of Contents**
+
+- [How to Install and Run the Project](###How to Install and Run the Project)
+
 ### **Contents**
 
 1. main.py
@@ -15,7 +19,7 @@ In this project, an *API* was built in order to construct a database with regist
 6. requirements.txt
 7. .gitignore
 
-### **How to Install and Run the Project**
+### How to Install and Run the Project
 
 ![docker](img/dockerimage.png)
 
