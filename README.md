@@ -1,4 +1,4 @@
-﻿ # **Postgres API**
+﻿# **Postgres API**
 ![database with api](img/apipostgres.png)
 
 ### **Description**
@@ -7,8 +7,11 @@ In this project, an *API* was built in order to construct a database with regist
 
 ### **Table of Contents**
 
-- [How to Install and Run the Project](###How to Install and Run the Project)
-
+- [Contents](#contents)
+- [How to Install and Run the Project](#how-to-install-and-run-the-project)
+- [How to use the project](#how-to-use-the-project)
+- [Contributions](#contributions)
+- [Licence](#licence)
 ### **Contents**
 
 1. main.py
