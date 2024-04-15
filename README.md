@@ -11,7 +11,9 @@ In this project, an *API* was built in order to construct a database with regist
 - [How to Install and Run the Project](#how-to-install-and-run-the-project)
 - [How to use the project](#how-to-use-the-project)
 - [Contributions](#contributions)
+- [Credits](#credits)
 - [Licence](#licence)
+
 ### **Contents**
 
 1. main.py
@@ -21,6 +23,8 @@ In this project, an *API* was built in order to construct a database with regist
 5. Dockerfile
 6. requirements.txt
 7. .gitignore
+   
+You can access the whole repository here...
 
 ### How to Install and Run the Project
 
@@ -39,6 +43,10 @@ You are totally free to upload any sort of movies. You just need to use the prop
 ### **Contributions**
 
 I would like to you to encourage to contribute in any form to the project through this public repository. 
+
+### **Credits**
+
+I would like to thank all the members of my team. Besides, I want to thank the support given by the team of Datapath. 
 
 ### **Licence**
 
