@@ -10,7 +10,7 @@ In this project, an *API* was built in order to construct a database with regist
 - [Contents](#contents)
 - [How to Install and Run the Project](#how-to-install-and-run-the-project)
 - [How to use the project](#how-to-use-the-project)
-- [Contributions](#contributions)
+- [Contributions](#contribution)
 - [Credits](#credits)
 - [Licence](#licence)
 
