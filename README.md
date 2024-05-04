@@ -1,11 +1,11 @@
-﻿# **Postgres API**
+﻿# **Postgres API**  📘
 ![database with api](img/apipostgres.png)
 
-### **Description**
+### **Description**  🗒️
 
 In this project, an *API* was built in order to construct a database with registers about the likes about movies of the user. The latter can insert his/her favorite author, a brief description and the release date. Besides, he / she can update the database in any part of it and finally, he/she would be able to access it to make comparison with another register.
 
-### **Table of Contents**
+### **Table of Contents**  📑
 
 - [Contents](#contents)
 - [How to Install and Run the Project](#how-to-install-and-run-the-project)
@@ -14,7 +14,7 @@ In this project, an *API* was built in order to construct a database with regist
 - [Credits](#credits)
 - [Licence](#licence)
 
-### **Contents**
+### **Contents**  🔡
 
 1. main.py
 2. models.py
@@ -24,31 +24,26 @@ In this project, an *API* was built in order to construct a database with regist
 6. requirements.txt
 7. .gitignore
 
-### How to Install and Run the Project
-
-![docker](img/dockerimage.png)
+### **How to Install and Run the Project** 🏃‍♂️
 
 The database must be put in a container through Docker. The basic steps must be put in an environment where Docker is installed and in the cmd or PowerShell (Windows). These are just two:
 
 1. docker pull postgres
 2. docker run --name <your_name_container> -e POSTGRES_PASSWORD = <your_password> -p <your_port>:<docker´s port> -d <name_image>
 
-### **How to use the project**
+### **How to use the project**  📂
 
 You are totally free to upload any sort of movies. You just need to use the proper methods established in the code. The interaction with the api will be performed by the browser.
 
 
-### **Contributions**
+### **Contributions**  ✍️
 
 I would like to you to encourage to contribute in any form to the project through this public repository. 
 
-### **Credits**
+### **Credits**  🎈
 
 I would like to thank all the members of my team. Besides, I want to thank the support given by the team of Datapath. 
 
-### **Licence**
+### **Licence**  👮
 
-*GPL* Licence
-
-![the end](img/image-2.png)
- 
+*GPL* Licence 
