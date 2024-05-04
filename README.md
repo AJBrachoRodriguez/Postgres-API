@@ -23,8 +23,6 @@ In this project, an *API* was built in order to construct a database with regist
 5. Dockerfile
 6. requirements.txt
 7. .gitignore
-   
-You can access the whole repository here...
 
 ### How to Install and Run the Project
 
